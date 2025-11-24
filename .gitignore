@@ -1,0 +1,11 @@
+# Ignore Buildozer and Android build artifacts
+.buildozer/
+*.apk
+*.aab
+*.log
+*.db
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
